@@ -16,9 +16,6 @@ dataset/
 ┣ valid/
 ┣ test/
 
-yaml
-Copy code
-
 ## 🧠 Model Architecture
 UNet with 3 encoder-decoder blocks.
 
