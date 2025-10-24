@@ -23,7 +23,7 @@ UNet with 3 encoder-decoder blocks.
 Average Dice coefficient: **(your result here)**
 
 ## 📘 How to Run
-Run this notebook in [Google Colab](https://colab.research.google.com/) and upload your dataset.
+Run this notebook in [Google Colab](https://colab.research.google.com/) and upload your dataset or use our one.
 
 ---
 **Author:** Muhammad Mudassar Durvaish  
